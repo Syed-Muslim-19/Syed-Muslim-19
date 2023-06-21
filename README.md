@@ -3,11 +3,13 @@
 <p>I'm a <b>Compter Science Student</b>, <b>Front-End Developer</b> and <b>2D-3D Game Developer</b></p>
 <ul>
   <li>I am a Front-End Developer and have obtained many certificates related to it. I have uploaded templates for various website on my HTML-CSS-JS repository.</li>
+  <br>
   <li>I am also a C++ language expert. I have uploaded various algo C++ codes on Cpp repository and C++ project on project.cpp repository</li>
+  <br>
   <li>I uploaded some code related to Python language too on pyhton repository</li>
+  <br>
   <li>Now I am learing skills to build a professional 3D Game on Unity5</li>
 </ul>
-<br />
 <br />
  <h2>Connect with me:</h2>
 <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png"/>https://www.instagram.com/syed_muslim_015/
