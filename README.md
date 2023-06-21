@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1> Hi there, I'm SYED MUHAMMAD MUSLIM SHAHZAD👋 💻</h1>
+<br>
+<p>I'm a <b>Compter Science Student</b>, <b>Front-End Developer</b> and <b>2D-3D Game Developer</b></p>
+<ul>
+  <li>I am a Front-End Developer and have obtained many certificates related to it. I have uploaded templates for various website on my HTML-CSS-JS repository.</li>
+  <li>I am also a C++ language expert. I have uploaded various algo C++ codes on Cpp repository and C++ project on project.cpp repository</li>
+  <li>I uploaded some code related to Python language too on pyhton repository</li>
+  <li>Now I am learing skills to build a professional 3D Game on Unity5</li>
+</ul>
+<br />
+<br />
+ <h2>Connect with me:</h2>
+<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png"/>https://www.instagram.com/syed_muslim_015/
+<br>
+<br>
 
-<!--
-**Syed-Muslim-19/Syed-Muslim-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="gmail" width="30px" height="22px" src="https://e7.pngegg.com/pngimages/358/32/png-clipart-inbox-by-gmail-computer-icons-ios-email-gmail-angle-rectangle.png"/><a href="muslim.snh@gmail.com">muslim.snh@gmail.com</a>
+<br />
+<br />
+<img align="left" alt="facebook" width="30px" src="https://e7.pngegg.com/pngimages/175/452/png-clipart-facebook-logo-facebook-icon-logo-facebook-icon-blue-text.png"/>https://www.facebook.com/profile.php?id=100009320153454&mibextid=LQQJ4d
+<br />
+<br />
+### Languages and Tools:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://e7.pngegg.com/pngimages/263/831/png-clipart-bootstrap-logo-computer-software-web-application-portable-document-format-b-purple-template.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
