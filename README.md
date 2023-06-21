@@ -1,5 +1,7 @@
+
 <h1> Hi there, I'm SYED MUHAMMAD MUSLIM SHAHZAD👋 💻</h1>
-<br>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 <p>I'm a <b>Compter Science Student</b>, <b>Front-End Developer</b> and <b>2D-3D Game Developer</b></p>
 <ul>
   <li>I am a Front-End Developer and have obtained many certificates related to it. I have uploaded templates for various website on my HTML-CSS-JS repository.</li>
@@ -30,3 +32,6 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://e7.pngegg.com/pngimages/263/831/png-clipart-bootstrap-logo-computer-software-web-application-portable-document-format-b-purple-template.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed-Muslim-19&theme=transparent&hide_border=true&type=png)](https://git.io/streak-stats)
