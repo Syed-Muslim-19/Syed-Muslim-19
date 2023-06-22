@@ -2,7 +2,7 @@
 <h1> Hi there, I'm SYED MUHAMMAD MUSLIM SHAHZAD👋 💻</h1>
 <img src="https://komarev.com/ghpvc/?username=Syed-Muslim-19&style=flat-square&color=blue" alt=""/>
 
-<p>I'm a <b>Compter Science Student</b>, <b>Front-End Developer</b> and <b>2D-3D Game Developer</b></p>
+<p>I'm a <b>Front-End Developer</b> and <b>2D-3D Game Developer</b></p>
 <ul>
   <li>I am a Front-End Developer and have obtained many certificates related to it. I have uploaded templates for various website on my HTML-CSS-JS repository.</li>
   <br>
