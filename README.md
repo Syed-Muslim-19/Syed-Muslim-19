@@ -4,7 +4,7 @@
 
 <p>I'm a <b>Front-End Developer</b> and <b>2D-3D Game Developer</b></p>
 <ul>
-  <li>I am a Front-End Developer and have obtained many certificates related to it. I have uploaded templates for various website on my HTML-CSS-JS repository.</li>
+  <li>I am a Front-End Developer and have obtained many certificates related to it. I have uploaded templates for various website on my HTML-CSS-JS repository and many more</li>
   <br>
   <li>I am also a C++ language expert. I have uploaded various algo C++ codes on Cpp repository and C++ project on project.cpp repository</li>
   <br>
