@@ -3,15 +3,12 @@
 
 <p>I'm a <b>MERN Stack Developer, Competitive Programmer</b>, and <b>Tech Enthusiast</b></p>
 <ul>
-  <li>I am a MERN stack developer and have built multiple projects, including a Netflix clone, a chat application using Express and Socket.io, and a weather forecast app.</li>
+  <li>I am a MERN stack developer and have built multiple projects, including a Netflix clone, and a chat application using Express and Socket.io.</li>
   <br>
-  <li>I have solved over 200 LeetCode questions and earned the 100 DAYS badge, showcasing my competitive programming skills.</li>
+  <li>I have solved over 200+ LeetCode questions and earned badges, showcasing my competitive programming skills.</li>
   <br>
-  <li>I have completed multiple certifications, including the HTML, CSS, and JavaScript for Web Developers course from Johns Hopkins University and the Programming with JavaScript course from Meta.</li>
+  <li>I have completed multiple certifications from Johns Hopkins University and Meta.</li>
   <br>
-  <li>I have participated in Devthon, a web development competition, to gain exposure and implement practical skills.</li>
-  <br>
-  <li>Currently, I am creating templates for real estate businesses, showcasing wireframes of websites.</li>
 </ul>
 
 <h2>Connect with me:</h2>
