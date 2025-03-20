@@ -1,15 +1,17 @@
 <h1> Hi there, I'm SYED MUHAMMAD MUSLIM SHAHZAD👋 💻</h1>
 <img src="https://komarev.com/ghpvc/?username=Syed-Muslim-19&style=flat-square&color=blue" alt="Profile Views"/>
 
-<p>I'm a <b>Front-End Developer, C++ Developer</b> and <b>2D-3D Game Developer</b></p>
+<p>I'm a <b>MERN Stack Developer, Competitive Programmer</b>, and <b>Tech Enthusiast</b></p>
 <ul>
-  <li>I am a front-end developer and have earned many certifications. I have uploaded templates for various websites and more to my HTML-CSS-JS repository.</li>
+  <li>I am a MERN stack developer and have built multiple projects, including a Netflix clone, a chat application using Express and Socket.io, and a weather forecast app.</li>
   <br>
-  <li>I am also a C++ language expert. I have uploaded various algorithm-based C++ codes in my Cpp repository and C++ projects in my project.cpp repository.</li>
+  <li>I have solved over 200 LeetCode questions and earned the 100 DAYS badge, showcasing my competitive programming skills.</li>
   <br>
-  <li>I have also uploaded some code related to the Python language in my Python repository.</li>
+  <li>I have completed multiple certifications, including the HTML, CSS, and JavaScript for Web Developers course from Johns Hopkins University and the Programming with JavaScript course from Meta.</li>
   <br>
-  <li>Currently, I am learning skills to build a professional 3D game using Unity5.</li>
+  <li>I have participated in Devthon, a web development competition, to gain exposure and implement practical skills.</li>
+  <br>
+  <li>Currently, I am creating templates for real estate businesses, showcasing wireframes of websites.</li>
 </ul>
 
 <h2>Connect with me:</h2>
