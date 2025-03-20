@@ -11,20 +11,6 @@
   <br>
 </ul>
 
-<h2>Connect with me:</h2>
-<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png"/>
-<a href="https://www.instagram.com/syed_muslim_015/">Instagram</a>
-<br>
-<br>
-<img align="left" alt="Gmail" width="30px" height="22px" src="https://e7.pngegg.com/pngimages/358/32/png-clipart-inbox-by-gmail-computer-icons-ios-email-gmail-angle-rectangle.png"/>
-<a href="mailto:muslim.snh@gmail.com">muslim.snh@gmail.com</a>
-<br />
-<br />
-<img align="left" alt="Facebook" width="30px" src="https://e7.pngegg.com/pngimages/175/452/png-clipart-facebook-logo-facebook-icon-logo-facebook-icon-blue-text.png"/>
-<a href="https://www.facebook.com/profile.php?id=100009320153454&mibextid=LQQJ4d">Facebook</a>
-<br />
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
@@ -51,3 +37,18 @@
 <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Muslim-19&theme=default&show_icons=true)
+
+<br />
+<h2>Connect with me:</h2>
+<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png"/>
+<a href="https://www.instagram.com/syed_muslim_015/">Instagram</a>
+<br>
+<br>
+<img align="left" alt="Gmail" width="30px" height="22px" src="https://e7.pngegg.com/pngimages/358/32/png-clipart-inbox-by-gmail-computer-icons-ios-email-gmail-angle-rectangle.png"/>
+<a href="mailto:muslim.snh@gmail.com">muslim.snh@gmail.com</a>
+<br />
+<br />
+<img align="left" alt="Facebook" width="30px" src="https://e7.pngegg.com/pngimages/175/452/png-clipart-facebook-logo-facebook-icon-logo-facebook-icon-blue-text.png"/>
+<a href="https://www.facebook.com/profile.php?id=100009320153454&mibextid=LQQJ4d">Facebook</a>
+<br />
+<br />
